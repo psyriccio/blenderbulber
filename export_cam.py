@@ -1,14 +1,8 @@
-import bpyml
-import bpy_types
-import bpy_extras
-import bl_operators
-import bl_ui
-import bpyml_ui
-import sys
-import os
-import bpy
-import mathutils
 import math
+import mathutils
+import os
+
+import bpy
 
 
 def get_alpha(vec):
