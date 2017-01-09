@@ -1,3 +1,5 @@
 *.avi
 *.mkv
 *_img/
+.idea/
+y
