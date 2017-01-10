@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<mlt title="Anonymous Submission" version="6.4.1" root="/mnt/data1/prj/blenderbulber" producer="main bin" LC_NUMERIC="ru_RU.UTF-8">
+<mlt title="Anonymous Submission" version="6.4.1" root="/home/psyriccio/prj/blenderbulber" producer="main bin" LC_NUMERIC="ru_RU.UTF-8">
  <profile width="1920" frame_rate_den="1" height="1080" display_aspect_num="16" display_aspect_den="9" frame_rate_num="30" colorspace="709" sample_aspect_den="1" description="HD 1080p 30 fps" progressive="1" sample_aspect_num="1"/>
  <producer id="5" title="Anonymous Submission" out="241" in="0">
   <property name="length">242</property>
@@ -120,86 +120,6 @@ created in Blender, proxy-box used in place of fractal&lt;/content>
   <property name="kdenlive:file_hash">a696ce15b3a2766d8f48c35a1d86d8f1</property>
   <property name="global_feed">1</property>
  </producer>
- <producer id="16" title="Anonymous Submission" out="240" in="0">
-  <property name="length">00:00:08:01</property>
-  <property name="eof">pause</property>
-  <property name="resource">/home/psyriccio/d1/prj/blenderbulber/blender.avi</property>
-  <property name="meta.media.nb_streams">1</property>
-  <property name="meta.media.0.stream.type">video</property>
-  <property name="meta.media.0.stream.frame_rate">30</property>
-  <property name="meta.media.0.stream.sample_aspect_ratio">1</property>
-  <property name="meta.media.0.codec.width">640</property>
-  <property name="meta.media.0.codec.height">480</property>
-  <property name="meta.media.0.codec.rotate">0</property>
-  <property name="meta.media.0.codec.frame_rate">30</property>
-  <property name="meta.media.0.codec.pix_fmt">bgr0</property>
-  <property name="meta.media.0.codec.sample_aspect_ratio">0</property>
-  <property name="meta.media.0.codec.colorspace">601</property>
-  <property name="meta.media.0.codec.name">huffyuv</property>
-  <property name="meta.media.0.codec.long_name">Huffyuv / HuffYUV</property>
-  <property name="meta.media.0.codec.bit_rate">59696208</property>
-  <property name="meta.attr.encoder.markup">Lavf57.56.100</property>
-  <property name="seekable">1</property>
-  <property name="meta.media.sample_aspect_num">1</property>
-  <property name="meta.media.sample_aspect_den">1</property>
-  <property name="aspect_ratio">1</property>
-  <property name="audio_index">-1</property>
-  <property name="video_index">0</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
-  <property name="kdenlive:folderid">-1</property>
-  <property name="meta.media.frame_rate_num">30</property>
-  <property name="meta.media.frame_rate_den">1</property>
-  <property name="meta.media.colorspace">601</property>
-  <property name="meta.media.color_trc">2</property>
-  <property name="meta.media.width">640</property>
-  <property name="meta.media.height">480</property>
-  <property name="meta.media.top_field_first">0</property>
-  <property name="meta.media.progressive">1</property>
-  <property name="kdenlive:file_size">59707860</property>
-  <property name="kdenlive:file_hash">25da87415bc87b850bdb347eed7b122a</property>
-  <property name="global_feed">1</property>
- </producer>
- <producer id="17" title="Anonymous Submission" out="240" in="0">
-  <property name="length">00:00:08:01</property>
-  <property name="eof">pause</property>
-  <property name="resource">/home/psyriccio/d1/prj/blenderbulber/mandelbulber.avi</property>
-  <property name="meta.media.nb_streams">1</property>
-  <property name="meta.media.0.stream.type">video</property>
-  <property name="meta.media.0.stream.frame_rate">30</property>
-  <property name="meta.media.0.stream.sample_aspect_ratio">0</property>
-  <property name="meta.media.0.codec.width">640</property>
-  <property name="meta.media.0.codec.height">480</property>
-  <property name="meta.media.0.codec.rotate">0</property>
-  <property name="meta.media.0.codec.frame_rate">30</property>
-  <property name="meta.media.0.codec.pix_fmt">bgr0</property>
-  <property name="meta.media.0.codec.sample_aspect_ratio">0</property>
-  <property name="meta.media.0.codec.colorspace">601</property>
-  <property name="meta.media.0.codec.name">huffyuv</property>
-  <property name="meta.media.0.codec.long_name">Huffyuv / HuffYUV</property>
-  <property name="meta.media.0.codec.bit_rate">80564352</property>
-  <property name="meta.attr.encoder.markup">Lavf57.56.100</property>
-  <property name="seekable">1</property>
-  <property name="meta.media.sample_aspect_num">1</property>
-  <property name="meta.media.sample_aspect_den">1</property>
-  <property name="aspect_ratio">1</property>
-  <property name="audio_index">-1</property>
-  <property name="video_index">0</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
-  <property name="kdenlive:folderid">-1</property>
-  <property name="meta.media.frame_rate_num">30</property>
-  <property name="meta.media.frame_rate_den">1</property>
-  <property name="meta.media.colorspace">601</property>
-  <property name="meta.media.color_trc">2</property>
-  <property name="meta.media.width">640</property>
-  <property name="meta.media.height">480</property>
-  <property name="meta.media.top_field_first">0</property>
-  <property name="meta.media.progressive">1</property>
-  <property name="kdenlive:file_size">80575928</property>
-  <property name="kdenlive:file_hash">6971179fc47214f4ed420051b79bfe0e</property>
-  <property name="global_feed">1</property>
- </producer>
  <producer id="18" title="Anonymous Submission" out="149" in="0">
   <property name="length">150</property>
   <property name="eof">pause</property>
@@ -258,6 +178,86 @@ created in Blender, proxy-box used in place of fractal&lt;/content>
   <property name="meta.media.width">1920</property>
   <property name="meta.media.height">1080</property>
  </producer>
+ <producer id="20" title="Anonymous Submission" out="240" in="0">
+  <property name="length">00:00:08:01</property>
+  <property name="eof">pause</property>
+  <property name="resource">blender.avi</property>
+  <property name="audio_index">-1</property>
+  <property name="video_index">0</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">30</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.width">640</property>
+  <property name="meta.media.0.codec.height">480</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.frame_rate">30</property>
+  <property name="meta.media.0.codec.pix_fmt">bgr0</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">0</property>
+  <property name="meta.media.0.codec.colorspace">601</property>
+  <property name="meta.media.0.codec.name">huffyuv</property>
+  <property name="meta.media.0.codec.long_name">Huffyuv / HuffYUV</property>
+  <property name="meta.media.0.codec.bit_rate">60524212</property>
+  <property name="meta.attr.encoder.markup">Lavf57.56.100</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="meta.media.frame_rate_num">30</property>
+  <property name="meta.media.frame_rate_den">1</property>
+  <property name="meta.media.colorspace">601</property>
+  <property name="meta.media.color_trc">2</property>
+  <property name="meta.media.width">640</property>
+  <property name="meta.media.height">480</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="kdenlive:file_size">60535864</property>
+  <property name="kdenlive:file_hash">e9de4950008286b909ff59ba8e112265</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer id="21" title="Anonymous Submission" out="240" in="0">
+  <property name="length">00:00:08:01</property>
+  <property name="eof">pause</property>
+  <property name="resource">mandelbulber.avi</property>
+  <property name="audio_index">-1</property>
+  <property name="video_index">0</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">30</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">0</property>
+  <property name="meta.media.0.codec.width">640</property>
+  <property name="meta.media.0.codec.height">480</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.frame_rate">30</property>
+  <property name="meta.media.0.codec.pix_fmt">bgr0</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">0</property>
+  <property name="meta.media.0.codec.colorspace">601</property>
+  <property name="meta.media.0.codec.name">huffyuv</property>
+  <property name="meta.media.0.codec.long_name">Huffyuv / HuffYUV</property>
+  <property name="meta.media.0.codec.bit_rate">83014544</property>
+  <property name="meta.attr.encoder.markup">Lavf57.56.100</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="meta.media.frame_rate_num">30</property>
+  <property name="meta.media.frame_rate_den">1</property>
+  <property name="meta.media.colorspace">601</property>
+  <property name="meta.media.color_trc">2</property>
+  <property name="meta.media.width">640</property>
+  <property name="meta.media.height">480</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="kdenlive:file_size">83026120</property>
+  <property name="kdenlive:file_hash">2e33dc27b0b3a245c288743b2f8ad39a</property>
+  <property name="global_feed">1</property>
+ </producer>
  <playlist id="main bin">
   <property name="kdenlive:docproperties.audiotargettrack">2</property>
   <property name="kdenlive:docproperties.dirtypreviewchunks"/>
@@ -267,7 +267,7 @@ created in Blender, proxy-box used in place of fractal&lt;/content>
   <property name="kdenlive:docproperties.generateimageproxy">1</property>
   <property name="kdenlive:docproperties.generateproxy">1</property>
   <property name="kdenlive:docproperties.kdenliveversion">16.12.0</property>
-  <property name="kdenlive:docproperties.position">222</property>
+  <property name="kdenlive:docproperties.position">47</property>
   <property name="kdenlive:docproperties.previewchunks"/>
   <property name="kdenlive:docproperties.previewextension"/>
   <property name="kdenlive:docproperties.previewparameters"/>
@@ -302,17 +302,17 @@ created in Blender, proxy-box used in place of fractal&lt;/content>
   <property name="kdenlive:docproperties.rendertcoverlay">0</property>
   <property name="kdenlive:docproperties.rendertctype">0</property>
   <property name="kdenlive:docproperties.rendertwopass">0</property>
-  <property name="kdenlive:docproperties.renderurl">/home/psyriccio/prj/blenderbulber/test1_out.mkv</property>
+  <property name="kdenlive:docproperties.renderurl">test1_out.mkv</property>
   <property name="kdenlive:docproperties.renderzone">0</property>
   <property name="xml_retain">1</property>
   <entry out="56" producer="5" in="0"/>
   <entry out="149" producer="11" in="0"/>
   <entry out="149" producer="14" in="0"/>
   <entry out="149" producer="15" in="0"/>
-  <entry out="240" producer="16" in="0"/>
-  <entry out="240" producer="17" in="0"/>
   <entry out="149" producer="18" in="0"/>
   <entry out="149" producer="19" in="0"/>
+  <entry out="240" producer="20" in="0"/>
+  <entry out="240" producer="21" in="0"/>
  </playlist>
  <producer id="black" out="500" in="0">
   <property name="length">15000</property>
@@ -343,10 +343,10 @@ created in Blender, proxy-box used in place of fractal&lt;/content>
   <property name="kdenlive:track_name">Video 1</property>
   <entry out="240" producer="5" in="0"/>
  </playlist>
- <producer id="17_playlist4" title="Anonymous Submission" out="240" in="0">
+ <producer id="21_playlist4" title="Anonymous Submission" out="240" in="0">
   <property name="length">00:00:08:01</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/psyriccio/d1/prj/blenderbulber/mandelbulber.avi</property>
+  <property name="resource">mandelbulber.avi</property>
   <property name="audio_index">-1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
@@ -354,8 +354,8 @@ created in Blender, proxy-box used in place of fractal&lt;/content>
   <property name="seekable">1</property>
   <property name="aspect_ratio">1</property>
   <property name="kdenlive:folderid">-1</property>
-  <property name="kdenlive:file_size">80575928</property>
-  <property name="kdenlive:file_hash">6971179fc47214f4ed420051b79bfe0e</property>
+  <property name="kdenlive:file_size">83026120</property>
+  <property name="kdenlive:file_hash">2e33dc27b0b3a245c288743b2f8ad39a</property>
   <property name="global_feed">1</property>
   <property name="xml">was here</property>
   <property name="meta.media.nb_streams">1</property>
@@ -371,7 +371,7 @@ created in Blender, proxy-box used in place of fractal&lt;/content>
   <property name="meta.media.0.codec.colorspace">601</property>
   <property name="meta.media.0.codec.name">huffyuv</property>
   <property name="meta.media.0.codec.long_name">Huffyuv / HuffYUV</property>
-  <property name="meta.media.0.codec.bit_rate">80564352</property>
+  <property name="meta.media.0.codec.bit_rate">83014544</property>
   <property name="meta.attr.encoder.markup">Lavf57.56.100</property>
   <property name="meta.media.sample_aspect_num">1</property>
   <property name="meta.media.sample_aspect_den">1</property>
@@ -386,12 +386,12 @@ created in Blender, proxy-box used in place of fractal&lt;/content>
  </producer>
  <playlist id="playlist4">
   <property name="kdenlive:track_name">Video 2</property>
-  <entry out="240" producer="17_playlist4" in="0"/>
+  <entry out="240" producer="21_playlist4" in="0"/>
  </playlist>
- <producer id="16_playlist5" title="Anonymous Submission" out="240" in="0">
+ <producer id="20_playlist5" title="Anonymous Submission" out="240" in="0">
   <property name="length">00:00:08:01</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/psyriccio/d1/prj/blenderbulber/blender.avi</property>
+  <property name="resource">blender.avi</property>
   <property name="audio_index">-1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
@@ -399,8 +399,8 @@ created in Blender, proxy-box used in place of fractal&lt;/content>
   <property name="seekable">1</property>
   <property name="aspect_ratio">1</property>
   <property name="kdenlive:folderid">-1</property>
-  <property name="kdenlive:file_size">59707860</property>
-  <property name="kdenlive:file_hash">25da87415bc87b850bdb347eed7b122a</property>
+  <property name="kdenlive:file_size">60535864</property>
+  <property name="kdenlive:file_hash">e9de4950008286b909ff59ba8e112265</property>
   <property name="global_feed">1</property>
   <property name="xml">was here</property>
   <property name="meta.media.nb_streams">1</property>
@@ -416,7 +416,7 @@ created in Blender, proxy-box used in place of fractal&lt;/content>
   <property name="meta.media.0.codec.colorspace">601</property>
   <property name="meta.media.0.codec.name">huffyuv</property>
   <property name="meta.media.0.codec.long_name">Huffyuv / HuffYUV</property>
-  <property name="meta.media.0.codec.bit_rate">59696208</property>
+  <property name="meta.media.0.codec.bit_rate">60524212</property>
   <property name="meta.attr.encoder.markup">Lavf57.56.100</property>
   <property name="meta.media.sample_aspect_num">1</property>
   <property name="meta.media.sample_aspect_den">1</property>
@@ -431,7 +431,7 @@ created in Blender, proxy-box used in place of fractal&lt;/content>
  </producer>
  <playlist id="playlist5">
   <property name="kdenlive:track_name">Video 3</property>
-  <entry out="240" producer="16_playlist5" in="0"/>
+  <entry out="240" producer="20_playlist5" in="0"/>
  </playlist>
  <playlist id="playlist10">
   <property name="kdenlive:track_name">Video 9</property>
